@@ -1,4 +1,5 @@
 import { Routes,Route } from 'react-router-dom';
+import Lendpage from './Pages/Lendpage/Lendpage';
 
 function MainRoutes() {
     return(
@@ -8,4 +9,4 @@ function MainRoutes() {
     );
 };
 
-export default MainRoutes;
+export default MainRoutes; 	
